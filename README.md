@@ -95,6 +95,7 @@ Agents specialized in writing, editing, and shipping code.
 - [Hotdog](https://github.com/devoidfury/hotdog) - Coding agent that runs straight from source on bun, no install step, fully auditable source, and extension system. License: MIT. Hosting: runs locally.
 - [Open Interpreter](https://github.com/openinterpreter/open-interpreter) - Coding agent optimized for low-cost models that emulates multiple agent harnesses. License: Apache-2.0. Hosting: runs locally.
 - [OpenHands](https://github.com/All-Hands-AI/OpenHands) - Platform for software development agents that runs coding agents across local, remote, and cloud backends. License: MIT. Hosting: self-hosted; vendor cloud available.
+- [wippaAGENT](https://github.com/wippa-studios/wippaAGENT) - OpenCode agent fleet: a primary orchestrator delegates coding work to twelve specialists under audit and review passes, backed by a bounded verify tool and bundled MCP servers. License: MIT. Hosting: local CLI (OpenCode).
 
 ## Selection criteria
 
